@@ -1,4 +1,4 @@
-# Primeira etapa - Web Scraping
+# Primeira etapa - webScraping.py
 ## Linguagem utilizada:
 -Python3 
 
